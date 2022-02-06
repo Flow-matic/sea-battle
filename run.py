@@ -61,4 +61,12 @@ def player_turns(total_turns):
 
 
 # Allows new game to start
+def play_again():
+
+    positive = ["yes", "y"]
+    negative = ["no", "n"]
+
+    global ship_points
+
+    
 
