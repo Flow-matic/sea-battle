@@ -131,6 +131,25 @@ def input_check(ship_row, ship_col, player, board):
         return 0
 
 
+begin = input("Type 'start' to begin: ")
 
+while (begin != str('start')):
+    begin = input("Type 'start' to begin: ")
+
+
+def main():
+
+    for turns in range(6):
+
+        if player_turns(turns) == player_one:
+            print(ship_points)
+            print("Player One")
+            input_check(
+                ship_points['ship_row'],
+                ship_points['ship_col'],
+                player_one, game_board
+            )
+
+        
 
 
