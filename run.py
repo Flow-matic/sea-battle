@@ -68,5 +68,18 @@ def play_again():
 
     global ship_points
 
-    
+    while True:
+        answer = input("Play again? [Y(es) / N(o)]: ").lower().strip()
+        if answer in positive:
+            ship_points = load_game(game_board)
+            main()
+            break
+
+        elif answer in negative:
+            print("Thanks for playing!")
+            exit()
+
+
+# What will be done with players guesses
+
 
