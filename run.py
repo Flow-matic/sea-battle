@@ -47,4 +47,18 @@ def load_game(board):
         'ship_row': ship_row,
     }
 
+ship_points = load_game(game_board)
+
+
+# Players will alternate turns
+def player_turns(total_turns):
+
+    if total_turns % 2 == 0:
+        total_turns += 1
+        return player_one
     
+    return player_two
+
+
+# Allows new game to start
+
