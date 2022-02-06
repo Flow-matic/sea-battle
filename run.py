@@ -150,6 +150,14 @@ def main():
                 player_one, game_board
             )
 
+        elif player_turns(turns) == player_two:
+            print("Player Two")
+            input_check(
+                ship_points['ship_row'],
+                ship_points['ship_col'],
+                player_two, game_board
+            )
+
         
 
 
