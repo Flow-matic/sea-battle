@@ -107,4 +107,30 @@ def input_check(ship_row, ship_col, player, board):
         (player_one["wins"], player_two["wins"]))
         print("Thanks for playing!")
         play_again()
+    
+    elif not match:
+        if not_on_game_board:
+            print("Ooops, that's not even in the ocean.")
+
+        elif board[guess_row][guess_col] == "X"\
+        or board[guess_row][guess_col] == "Y":
+            print("You guessed that one already.")
+        
+        else:
+            print("You missed my battleship!")
+            if player == player_one:
+                board[guess_row][guess_col] = "X"
+            else:
+                board[guess_row][guess_col] = "Y"
+
+        print(colors['cyan'])
+        show_board(game_board)
+        print(colors['reset'])
+    
+    else:
+        return 0
+
+
+
+
 
