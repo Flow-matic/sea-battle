@@ -97,6 +97,7 @@ def input_check(ship_row, ship_col, player, board):
         else:
 
             break
+
     match = guess_row == ship_row - 1 and guess_col == ship_col - 1 not_on_game_board = (guess_row < 0 or guess_row > 4) or (guess_col < 0 or guess_col > 4)
 
     if match:
