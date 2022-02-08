@@ -65,4 +65,4 @@ ___
 
    * This game is a draw. will appear if after each player has used up there turn, an option to play again will be offered with the following, play again (y) or (n) 
 
-   * How to win the game! Guess your opponent's ship locations better. ![Images]()
+   * How to win the game! Guess your opponent's ship locations better. ![Images](https://github.com/Flow-matic/sea-battle/tree/main/images)
