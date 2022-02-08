@@ -64,3 +64,5 @@ ___
    * Oops that's not even in the ocean, will also appear if you type in the same location numbers.
 
    * This game is a draw. will appear if after each player has used up there turn, an option to play again will be offered with the following, play again (y) or (n) 
+
+   * How to win the game! Guess your opponent's ship locations better. ![Images]()
