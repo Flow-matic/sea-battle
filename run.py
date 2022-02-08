@@ -98,13 +98,15 @@ def input_check(ship_row, ship_col, player, board):
 
             break
 
-    match = guess_row == ship_row - 1 and guess_col == ship_col - 1 not_on_game_board = (guess_row < 0 or guess_row > 4) or (guess_col < 0 or guess_col > 4)
+    match = guess_row == ship_row - 1 and guess_col == ship_col - 1
+    not_on_game_board = (guess_row < 0 or guess_row
+                         > 4) or (guess_col < 0 or guess_col > 4)
 
     if match:
         player["wins"] += 1
         print("Congratulations! You sunk my battleship!")
         print('The current match score is %d : %d (Player1 : Player2)' %
-        (player_one["wins"], player_two["wins"]))
+              (player_one["wins"], player_two["wins"]))
         print("Thanks for playing!")
         play_again()
 
@@ -113,7 +115,7 @@ def input_check(ship_row, ship_col, player, board):
             print("Oops, that's not even in the ocean.")
 
         elif board[guess_row][guess_col] == "X"\
-        or board[guess_row][guess_col] == "Y":
+                or board[guess_row][guess_col] == "Y":
             print("You guessed that one already.")
 
         else:
@@ -164,7 +166,7 @@ def main():
             show_board(game_board)
             print(colors['reset'])
             print('The current match score is %d : %d (Player1 : Player2)' %
-            (player_one["wins"], player_two["wins"]))
+                  (player_one["wins"], player_two["wins"]))
             play_again()
 
 
