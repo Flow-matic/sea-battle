@@ -1,31 +1,36 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Sea Battle
 
-Welcome Flow-matic,
+Sea Battle (also known as Battleships or Battleship. The game of Battleship is thought to have its origins in the French game L'Attaque played during World War I, although parallels have also been drawn to E. I. Horseman's 1890 game Baslinda, and the game is said to have been played by Russian officers before World War I.  The first commercial version of the game was Salvo, published in 1931 in the United States by the Starex company. Other versions of the game were printed in the 1930s and 1940s, including the Strathmore Company's Combat: The Battleship Game, Milton Bradley's Broadsides: A Game of Naval Strategy and Maurice L. Freedman'sWarfare Naval Combat. Strategy Games Co. produced a version called Wings which pictured planes flying over the Los Angeles Coliseum. All of these early editions of the game consisted of pre-printed pads of paper.
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
+---
 
-## Reminders
+![responsive design]()
 
-* Your code must be placed in the `run.py` file
-* Your dependencies must be placed in the `requirements.txt` file
-* Do not edit any of the other files or your code may not deploy properly
 
-## Creating the Heroku app
+ [Sea Battle app can be found here ]()
 
-When you create the app, you will need to add two buildpacks from the _Settings_ tab. The ordering is as follows:
+---
+  App Goals
+---
 
-1. `heroku/python`
-2. `heroku/nodejs`
+   *
 
-You must then create a _Config Var_ called `PORT`. Set this to `8000`
+     * When playing any of the battleship games you need logic and reason, as well as memory.
 
-If you have credentials, such as in the Love Sandwiches project, you must create another _Config Var_ called `CREDS` and paste the JSON into the value field.
+     * you must remember the shots you’ve taken.
 
-Connect your GitHub repository and deploy as normal.
+     * which square will be next and you must be able to formulate a mental picture of your opponent’s set up and keep that in mind as the game progresses.
 
-## Constraints
+     * Battleship games introduce school kids to coordinates and grids in a hands-on kind of way
 
-The deployment terminal is set to 80 columns by 24 rows. That means that each line of text needs to be 80 characters or less otherwise it will be wrapped onto a second line.
+     * Battleships is a classic strategy/guessing game of naval combat.
 
------
-Happy coding!
+     * As a returning regular visitor I would expect all external links to be working and updated.
+
+     * All in all, it’s a complete brain workout and a great way to make learning fun.
+
+___
+
+Critical Thinking Skills
+---
+ Battleship games introduce school kids to coordinates and grids in a hands-on kind of way; it helps them understand the relationship between rows and columns, as well as the relationship between an actual object or a sequence of events and how they are represented on a graph.
