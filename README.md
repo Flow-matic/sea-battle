@@ -121,6 +121,92 @@ Throughout writing my code, I continuously tested the code in [VS Code's](https:
 
    * [Expected 2 blank lines, found 1 E302](https://github.com/Flow-matic/sea-battle/blob/main/images/battleships%20error%20codes%202.png?raw=true) Extra blank lines may be used (sparingly) to separate groups of related functions. Blank lines may be omitted between a bunch of related one-liners (e.g. a set of dummy implementations).
 
-   * A extra space between lines 41 and 43 was needed to solve this issue.
+   * A extra space between lines [41 and 43](https://github.com/Flow-matic/sea-battle/blob/main/images/extra%20space%20between%2041%2043.png?raw=true) was needed to solve this issue.
+
+   * No bugs remained in the app at this time of submission.
+
+
+___
+
+Deployment:
+--- 
+
+Code Institute student template for deploying my third portfolio project was used, the Python command-line project.
+
+The project was deployed to [GitHub](https://github.com/) Pages using the following steps, I used [Gitpod](https://www.gitpod.io/) as a development environment to write and push code to Github. Once your project is finished the folowing steps must be taking before you deploy your app to [Heroku](https://www.heroku.com/)
+
+ 
+
+   * Log in to GitHub and locate the GitHub Repository.
+     
+   * At the top of the Repository, click on the "Settings" Button on the menu.
+     
+   * Scroll down the Settings page until you locate the "Pages" Section.
+
+   *  Under "Source", click the dropdown called "None" and select "Master Branch" and click on save.
+
+   * The page will automatically refresh.
+
+   * The now published site link shows at the top of the page.
+
+
+Setting up Heroku environment:
+
+   * Once you have your account ready, login with your credentials.
+
+   * Click New on the top right corner and select “Create new app”.
+
+   * Give your app a name (This will be included in the public URL for your application) and click Create app.
+
+   * This step will take you to the dashboard of your app. Open Deploy tab and scroll to the “Deployment method” section.
+
+   * Select GitHub as the method.
+
+   * It will show a “Connect to GitHub” option where we can provide our GitHub repository. If you are doing it for the first time, Heroku will ask permission to access your GitHub account.
+
+   * Here, you can search for your GitHub repository and click connect:
+
+   * If it’s able to find and connect to the GitHub repository, the Deployment section will show up where you can select if you want Automatic Deployment (as soon as the changes are pushed to GitHub, Heroku will pick them up and deploy) or Manual Deployment.
+
+   * Click Enable Automatic Deploys (because it’s less overhead for demo apps :) ). You can also select the GitHub branch if you need to, deploy from the master branch.
+
+   * Now we need to tell Heroku that our app is a Python and Node.js Framework. When you create the app, you will need to add two buildpacks from the Settings tab.
+
+   * Open the Settings tab and locate Buildpacks and click “Add buildpack”.
+
+   1. python
+   2. nodejs
+
+   * The ordering is as follows: python first then nodejs second. Select each buildpack from the options and click Save changes.
+
+   * Now, go back to the Deploy tab, and click Deploy Branch at the bottom.
+
+   * Heroku will take the code and host it. Open the Activity tab and there you can see the progress:
+
+   * Hoooorah!! And that’s it! you just created your own web application that can be accessed over the internet.
+
+
+___ 
+
+Technologies Used:
+--- 
+
+   * [Python](https://www.python.org/) is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
+
+   * [Github](http://github.com/) is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git.
+
+   * [Heroku](http://www.heroku.com/) is a cloud platform as a service supporting several programming languages. One of the first cloud platforms, Heroku has been in development since June 2007, when it supported only the Ruby programming language, but now supports Java, Node.js, Scala, Clojure, Python, PHP, and Go.
+
+
+___
+
+Credits:
+---
+
+   * [Stack Overflow](https://stackoverflow.com/) for the code to the game, and also solving other issues along the way to achieving the end result.
+
+   * [YouTube](https://www.youtube.com/) for the endless videos on seeing how code looks and works from professional developers perspective.
+
+   * [Stack Exchange](https://stackexchange.com/) gerneral knowledge questions.
 
 
