@@ -113,10 +113,14 @@ Bugs and Errors:
 ---
 Throughout writing my code, I continuously tested the code in [VS Code's](https://code.visualstudio.com/) terminal as well as [Gitpod's terminal](https://www.gitpod.io/)
 
-   * [E501 line too long (107 > 79 characters)]() was the first error when running the code through pep8.
+   * [E501 line too long (107 > 79 characters)](https://github.com/Flow-matic/sea-battle/blob/main/images/battleships%20error%20codes%202.png?raw=true) was the first error when running the code through pep8.
 
-   * For flowing long blocks of text with fewer structural restrictions (docstrings or comments), the line length should be limited to 72 characters as [image shows]().
+   * For flowing long blocks of text with fewer structural restrictions (docstrings or comments), the line length should be limited to 72 characters as [image shows](https://github.com/Flow-matic/sea-battle/blob/main/images/code%20too%20long%20fixed.png?raw=true).
 
    * The preferred way of wrapping long lines is by using Python's implied line continuation inside parentheses, brackets and braces. Long lines can be broken over multiple lines by wrapping expressions in parentheses.
+
+   * [Expected 2 blank lines, found 1 E302](https://github.com/Flow-matic/sea-battle/blob/main/images/battleships%20error%20codes%202.png?raw=true) Extra blank lines may be used (sparingly) to separate groups of related functions. Blank lines may be omitted between a bunch of related one-liners (e.g. a set of dummy implementations).
+
+   * A extra space between lines 41 and 43 was needed to solve this issue.
 
 
