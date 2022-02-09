@@ -10,7 +10,7 @@ Sea Battle (also known as Battleships or Battleship. The game of Battleship is t
  [Sea Battle app can be found here ]()
 
 ---
-  App Goals
+  App Goals:
 ---
 
 
@@ -30,7 +30,7 @@ Sea Battle (also known as Battleships or Battleship. The game of Battleship is t
 
 ___
 
-Critical Thinking Skills
+Critical Thinking Skills:
 ---
  Battleship games introduce school kids to coordinates and grids in a hands-on kind of way; it helps them understand the relationship between rows and columns, as well as the relationship between an actual object or a sequence of events and how they are represented on a graph.
 
@@ -38,7 +38,7 @@ Battleship requires you to formulate a mental picture of your opponent's set up 
 
 ___
 
- How To Play 
+ How To Play: 
 --- 
 
    * Firstly choose if you would like to be player one or player two.
@@ -65,4 +65,37 @@ ___
 
    * This game is a draw. will appear if after each player has used up there turn, an option to play again will be offered with the following, play again (y) or (n) 
 
-   * How to win the game! Guess your opponent's ship locations better. [Images](https://github.com/Flow-matic/sea-battle/tree/main/images)
+   * How to win the game! Guess your opponent's ship locations better. [Game play images](https://github.com/Flow-matic/sea-battle/tree/main/images)
+
+ ___
+
+User Stories:
+---
+  
+As a user, I want to be able to:
+
+  * See clearly what the game is.
+
+  * Have a easy understanding on how the game is played.
+
+  * Be able to play and enjoy a classic game of battleships.
+
+  * I would like the game to be easy to navigate through.
+
+  * Have a working loop environment without users imput errors.
+
+
+___
+
+Game Flow Chart:
+--- 
+
+Lucidcharts was used to give a visual step by step guide on how the game will play out for each user.
+
+   * What is a flow chart?
+
+    *  a diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams. Flowcharts, sometimes spelled as flow charts, use rectangles, ovals, diamonds and potentially numerous other shapes to define the type of step, along with connecting arrows to define flow and sequence.
+
+
+[Game play images]()
+

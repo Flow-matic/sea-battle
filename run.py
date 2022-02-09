@@ -20,8 +20,10 @@ colors = {
 }
 
 
-# Building our 5 x 5 board
 def build_game_board(board):
+    """
+        Building our 5 x 5 board
+    """
     for item in range(5):
         board.append(["O"] * 5)
 
