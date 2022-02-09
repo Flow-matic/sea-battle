@@ -97,5 +97,5 @@ Lucidcharts was used to give a visual step by step guide on how the game will pl
     *  a diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams. Flowcharts, sometimes spelled as flow charts, use rectangles, ovals, diamonds and potentially numerous other shapes to define the type of step, along with connecting arrows to define flow and sequence.
 
 
-[Game play images]()
+[Game play images](https://github.com/Flow-matic/sea-battle/blob/main/images/Game%20flow%20chart.jpeg?raw=true)
 
