@@ -92,9 +92,18 @@ Game Flow Chart:
 
 Lucidcharts was used to give a visual step by step guide on how the game will play out for each user.
 
-   * What is a flow chart?
+   * [What is a flow chart?](https://lucid.co/)
 
    * A diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams. Flowcharts, sometimes spelled as flow charts, use rectangles, ovals, diamonds and potentially numerous other shapes to define the type of step, along with connecting arrows to define flow and sequence.
 
-[Flow chart](https://github.com/Flow-matic/sea-battle/blob/main/images/Game%20flow%20chart.jpeg?raw=true)
+![Flow chart](https://github.com/Flow-matic/sea-battle/blob/main/images/Game%20flow%20chart.jpeg?raw=true)
+
+
+___ 
+
+Testing Code:
+---
+[Pep8](http://pep8online.com/) sometimes spelled PEP8 or PEP-8, is a document that provides guidelines and best practices on how to write Python code. The primary focus of PEP 8 is to improve the readability and consistency of Python code.
+
+![]()
 
