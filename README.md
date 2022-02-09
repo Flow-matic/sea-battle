@@ -209,4 +209,20 @@ Credits:
 
    * [Stack Exchange](https://stackexchange.com/) gerneral knowledge questions.
 
+   * [Code Institute](https://github.com/Code-Institute-Org/python-essentials-template) for providing the template needed to work on my project 3.
+
+   * [Python standard library](https://docs.python.org/3/library/) is a collection of script modules accessible to a Python program to simplify the programming process and removing the need to rewrite commonly used commands.
+
+
+___
+
+Acknowledgement:
+---
+
+  * My mentor for support, advice and feedback. Thanks dickv_mentor.
+
+  * [Slack](https://slack.com/) community for answers and help along the way to finishing deadlines for projects.
+
+  * 
+
 
