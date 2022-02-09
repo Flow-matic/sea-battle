@@ -105,5 +105,18 @@ Testing Code:
 ---
 [Pep8](http://pep8online.com/) sometimes spelled PEP8 or PEP-8, is a document that provides guidelines and best practices on how to write Python code. The primary focus of PEP 8 is to improve the readability and consistency of Python code.
 
-![Code Ok](https://github.com/Flow-matic/sea-battle/blob/main/images/pep8%20code%20ok.png?raw=true)
+[Code image can be found here!](https://github.com/Flow-matic/sea-battle/blob/main/images/pep8%20code%20ok.png?raw=true)
+
+___
+
+Bugs and Errors:
+---
+Throughout writing my code, I continuously tested the code in [VS Code's](https://code.visualstudio.com/) terminal as well as [Gitpod's terminal](https://www.gitpod.io/)
+
+   * [E501 line too long (107 > 79 characters)]() was the first error when running the code through pep8.
+
+   * For flowing long blocks of text with fewer structural restrictions (docstrings or comments), the line length should be limited to 72 characters as [image shows]().
+
+   * The preferred way of wrapping long lines is by using Python's implied line continuation inside parentheses, brackets and braces. Long lines can be broken over multiple lines by wrapping expressions in parentheses.
+
 
