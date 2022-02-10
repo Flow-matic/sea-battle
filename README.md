@@ -1,4 +1,4 @@
-# Sea Battle
+# Sea Battles
 
 Sea Battle (also known as Battleships or Battleship. The game of Battleship is thought to have its origins in the French game L'Attaque played during World War I, although parallels have also been drawn to E. I. Horseman's 1890 game Baslinda, and the game is said to have been played by Russian officers before World War I.  The first commercial version of the game was Salvo, published in 1931 in the United States by the Starex company. Other versions of the game were printed in the 1930s and 1940s, including the Strathmore Company's Combat: The Battleship Game, Milton Bradley's Broadsides: A Game of Naval Strategy and Maurice L. Freedman'sWarfare Naval Combat. Strategy Games Co. produced a version called Wings which pictured planes flying over the Los Angeles Coliseum. All of these early editions of the game consisted of pre-printed pads of paper. [Wiki](https://en.wikipedia.org/wiki/Battleship)
 
