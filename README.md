@@ -4,7 +4,7 @@ Sea Battle (also known as Battleships or Battleship. The game of Battleship is t
 
 ---
 
-![responsive design]()
+![responsive design](https://github.com/Flow-matic/sea-battle/blob/main/images/ahoy%20there%20matey.jpeg?raw=true)
 
 
  [Sea Battle app can be found here ](https://sea-battles.herokuapp.com/) 🛳
