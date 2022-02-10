@@ -7,7 +7,7 @@ Sea Battle (also known as Battleships or Battleship. The game of Battleship is t
 ![responsive design]()
 
 
- [Sea Battle app can be found here ]()
+ [Sea Battle app can be found here ](https://sea-battles.herokuapp.com/) 🛳
 
 ---
   App Goals:
