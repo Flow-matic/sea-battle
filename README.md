@@ -221,8 +221,8 @@ Acknowledgement:
 
   * My mentor for support, advice and feedback. Thanks dickv_mentor.
 
-  * [Slack](https://slack.com/) community for answers and help along the way to finishing deadlines for projects.
+  * [Slack](https://slack.com/) community for answers and help along the way to finishing deadlines with projects.
 
-  * 
+  * My wife for putting up with my baby Tantrums when my code didn’t work during my project 3. 😂
 
 
