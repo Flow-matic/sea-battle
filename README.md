@@ -213,15 +213,19 @@ Credits:
 
    * [Python standard library](https://docs.python.org/3/library/) is a collection of script modules accessible to a Python program to simplify the programming process and removing the need to rewrite commonly used commands.
 
+   * [Wikipedia](https://en.wikipedia.org/wiki/Battleship_(game)) is a free online encyclopedia.
+
+   * [Google](http://www.google.com/) Search the world's information, including webpages, images, videos and more.
+
 
 ___
 
 Acknowledgement:
 ---
 
-  * My mentor for support, advice and feedback. Thanks dickv_mentor.
+  * My mentor for support, advice and feedback. Thanks dickv_mentor. 🙏🏻
 
-  * [Slack](https://slack.com/) community for answers and help along the way to finishing deadlines with projects.
+  * [Slack](https://slack.com/) community for answers and help along the way to finishing deadlines with projects. 🍻
 
   * My wife for putting up with my baby Tantrums when my code didn’t work during my project 3. 😂
 
