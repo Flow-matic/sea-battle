@@ -105,7 +105,7 @@ Testing Code:
 ---
 [Pep8](http://pep8online.com/) sometimes spelled PEP8 or PEP-8, is a document that provides guidelines and best practices on how to write Python code. The primary focus of PEP 8 is to improve the readability and consistency of Python code.
 
-[Code image can be found here!](https://github.com/Flow-matic/sea-battle/blob/main/images/pep8%20code%20ok.png?raw=true)
+[Passed code image can be found here!](https://github.com/Flow-matic/sea-battle/blob/main/images/pep8%20code%20ok.png?raw=true)
 
 ___
 
@@ -197,6 +197,49 @@ Technologies Used:
 
    * [Heroku](http://www.heroku.com/) is a cloud platform as a service supporting several programming languages. One of the first cloud platforms, Heroku has been in development since June 2007, when it supported only the Ruby programming language, but now supports Java, Node.js, Scala, Clojure, Python, PHP, and Go.
 
+
+___
+
+Features & Design:
+--- 
+
+  * There are some limitations as to how you can style a command-line based app, 
+   
+   * Colors used for the app grid was as follows. [Red](https://www.w3schools.com/colors/colors_picker.asp) [Bluue](https://www.w3schools.com/colors/colors_picker.asp) [Cyan](https://www.w3schools.com/colors/colors_picker.asp)
+
+  * [Canva](http://www.canva.com/) was used to design and make the README.md main header image. Canva is an Australian graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. The app includes templates for users to use free of charge or you can upgrade and pay a yearly fee.
+
+  * [Responsive design](http://ami.responsivedesign.is/) was used to preview the app online.
+  
+   *  How it works
+  
+  1. Add your URL to the input field.
+  2. Click GO (reloads the preview) or press Enter (reloads the page).
+  3. Admire your good work.
+  4. [Finished image](https://github.com/Flow-matic/sea-battle/blob/main/images/responsive%20design.png?raw=true)
+  
+  * [Preview app on my Mac](https://en.wikipedia.org/wiki/Preview_(macOS)) was used to cut out images from the final responsive design layout, then I overlaid the images so as to have a background image on the main header and not just a white background. The following step were taking.
+
+   1. Duplicate photos before editing.
+   * Find the pictures in Finder. Duplicate them first, so you can always restore them when you made any mistake in the editing process.
+
+   2. Cut and copy the first picture to clipboard.
+   * Double click on the first picture to open it with Preview. Click and hold, then drag on the picture to select part of the image, or go to the Edit menu, choose Select All to select the whole picture. Then click Edit > Cut or press Command+X to cut the picture or the selected part of it and copy it to clipboard. This will convert the photo to PNG format if it was an image file in JPG, JPEG or other format that does not support transparency. Converting will replace the existing file. That’s one of the reasons we asked you to create a copy of original pictures above and edit only the copies.
+
+   3. Resize image optionally.
+   * Now we need to adjust the size of the image to make room for all photos you want to join together. Click Tools > Adjust Size. Set the desired width and height in the Image Dimensions screen that pops up.
+
+   4. Paste the first picture.
+   * Press Commend + V or go Edit menu, choose Paste to paste the first photo or the selected part of it from clipboard to the image background.
+   Drag the blue dots in its border to resize the first photo. And drag and drop to position it anywhere above the transparent background.
+
+   5. Copy and paste the second photo.
+   * Again open the second photo in Preview on Mac. Go to the Edit menu to choose Select All or drag on the picture   to select part of it, then copy it to clipboard.
+   After that paste the second photo to the same image with the first photo.
+   Likewise, drag its border to resize it, drag and drop to move it anywhere above the canvas.
+
+   6. Save the photo.
+   * Repeat the steps to add more photos to the collage. Finally click File > Export and follow the on-screen tips to  save the photo collage as a new image file on your Mac.
 
 ___
 
