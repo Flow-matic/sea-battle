@@ -49,7 +49,7 @@ ___
 
    * Guess your column and hit enter.
 
-   * Player two has there turn doing the same process.
+   * Player two has their turn doing the same process.
 
    * Each turn will show on the 5x5 board an x to see if you have a direct hit or miss.
 
@@ -82,7 +82,7 @@ As a user, I want to be able to:
 
   * I would like the game to be easy to navigate through.
 
-  * Have a working loop environment without users imput errors.
+  * Have a working loop environment without users input errors.
 
 
 ___
@@ -115,7 +115,7 @@ Throughout writing my code, I continuously tested the code in [VS Code's](https:
 
    * [E501 line too long (107 > 79 characters)](https://github.com/Flow-matic/sea-battle/blob/main/images/battleships%20error%20codes%202.png?raw=true) was the first error when running the code through pep8.
 
-   * For flowing long blocks of text with fewer structural restrictions (docstrings or comments), the line length should be limited to 72 characters as [image shows](https://github.com/Flow-matic/sea-battle/blob/main/images/code%20too%20long%20fixed.png?raw=true).
+   * For flowing long blocks of text with fewer structural restrictions (docstring or comments), the line length should be limited to 72 characters as [image shows](https://github.com/Flow-matic/sea-battle/blob/main/images/code%20too%20long%20fixed.png?raw=true).
 
    * The preferred way of wrapping long lines is by using Python's implied line continuation inside parentheses, brackets and braces. Long lines can be broken over multiple lines by wrapping expressions in parentheses.
 
@@ -205,9 +205,9 @@ Features & Design:
 
   * There are some limitations as to how you can style a command-line based app, 
    
-   * Colors used for the app grid was as follows. [Red](https://www.w3schools.com/colors/colors_picker.asp) [Bluue](https://www.w3schools.com/colors/colors_picker.asp) [Cyan](https://www.w3schools.com/colors/colors_picker.asp)
+   * Colors used for the app grid was as follows. [Red](https://www.w3schools.com/colors/colors_picker.asp), [Blue](https://www.w3schools.com/colors/colors_picker.asp), [Cyan](https://www.w3schools.com/colors/colors_picker.asp), I used [W3schools color picker](https://www.w3schools.com/colors/colors_picker.asp)
 
-  * [Canva](http://www.canva.com/) was used to design and make the README.md main header image. Canva is an Australian graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. The app includes templates for users to use free of charge or you can upgrade and pay a yearly fee.
+  * [Canva](http://www.canva.com/) was used to design and make the background README.md main header image. Canva is an Australian graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. The app includes templates for users to use free of charge or you can upgrade and pay a yearly fee.
 
   * [Responsive design](http://ami.responsivedesign.is/) was used to preview the app online.
   
@@ -215,7 +215,7 @@ Features & Design:
   
   1. Add your URL to the input field.
   2. Click GO (reloads the preview) or press Enter (reloads the page).
-  3. Admire your good work.
+  3. Admire you’re good work.
   4. [Finished image](https://github.com/Flow-matic/sea-battle/blob/main/images/responsive%20design.png?raw=true)
   
   * [Preview app on my Mac](https://en.wikipedia.org/wiki/Preview_(macOS)) was used to cut out images from the final responsive design layout, then I overlaid the images so as to have a background image on the main header and not just a white background. The following step were taking.
@@ -250,7 +250,7 @@ Credits:
 
    * [YouTube](https://www.youtube.com/) for the endless videos on seeing how code looks and works from professional developers perspective.
 
-   * [Stack Exchange](https://stackexchange.com/) gerneral knowledge questions.
+   * [Stack Exchange](https://stackexchange.com/) general knowledge questions.
 
    * [Code Institute](https://github.com/Code-Institute-Org/python-essentials-template) for providing the template needed to work on my project 3.
 
