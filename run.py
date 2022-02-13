@@ -1,5 +1,6 @@
 from random import randint
 
+
 game_board = []
 
 player_one = {
@@ -24,7 +25,7 @@ def build_game_board(board):
     """
         Building our 5 x 5 board
     """
-    for item in range(5):
+    for _ in range(5):
         board.append(["O"] * 5)
 
 
