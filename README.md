@@ -66,12 +66,6 @@ ___
    * This game is a draw. will appear if after each player has used up there turn, an option to play again will be offered with the following, play again (y) or (n) 
 
    * How to win the game! Guess your opponent's ship locations better. [Game play images](https://github.com/Flow-matic/sea-battle/tree/main/images)
-    
-   * https://user-images.githubusercontent.com/90872113/153793295-d74d86eb-ee33-438a-b4fb-123a9248a9ef.mp4
-   
-   * By using macbook pro to record the screen and show a step by step guide on how the game works within the terminal.
-  
-   * To add a mp4 movie to the readme.md file, can only be done by dragging and dropping the movie directly on to the file through github and can not be done       through gitpod.
 
 
  ___
