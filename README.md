@@ -128,6 +128,8 @@ Throughout writing my code, I continuously tested the code in [VS Code's](https:
 
    * One human error was caused by no other than my self, I wanted to add a mp4 video clip of how the game is played, and the only way to add a video to a readme.md file is to drag and drop the video directly to the file within github. Once saved it did flag up errors within gitpod when trying to push new updates to the readme.md file.
 
+   * Dealing with non-fast-forward errors, sometimes, Git can't make your change to a remote repository without losing commits. When this happens, your push is refused. If another person has pushed to the same branch as you, Git won't be able to push your changes: This was fixed by following the steps taking in the [image]()
+
 
 ___
 
