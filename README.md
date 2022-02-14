@@ -67,6 +67,7 @@ ___
 
    * How to win the game! Guess your opponent's ship locations better. [Game play images](https://github.com/Flow-matic/sea-battle/tree/main/images)
 
+
  ___
 
 User Stories:
