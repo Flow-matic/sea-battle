@@ -103,16 +103,15 @@ Feature Enhancements:
 
 ___
 
-Game Flow Chart:
+Game Sketch Chart Using Excalidraw:
 --- 
 
-Lucidcharts was used to give a visual step by step guide on how the game will play out for each user.
+   * [Excalidraw](https://excalidraw.com/) is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 
-   * [What is a flow chart?](https://lucid.co/)
 
-   * A diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams. Flowcharts, sometimes spelled as flow charts, use rectangles, ovals, diamonds and potentially numerous other shapes to define the type of step, along with connecting arrows to define flow and sequence.
+   * Excalidraw comes with all the basic features you would expect to see in a drawing tool. It offers a wonderful selection of basic shapes and features. You can set the properties of the stroke and the fill, group objects, manage layers by bringing objects to the front or pushing them to the back. You can also add text, play with the arrowheads, draw freehand, add breakpoints to lines ... it is really hard to name a basic feature that is missing.
 
-![Flow chart](https://github.com/Flow-matic/sea-battle/blob/main/images/Game%20flow%20chart.jpeg?raw=true)
+![Sketch chart](https://github.com/Flow-matic/sea-battle/blob/main/images/Game%20flow%20chart.jpeg?raw=true)
 
 
 ___ 
@@ -250,6 +249,15 @@ Git Cloning Loacal Deployment:
 
    7. Press Enter to create your local clone.
    [Steps taking image](https://github.com/Flow-matic/sea-battle/blob/main/images/git%20clone%207.png?raw=true)
+
+
+___
+
+
+Troubleshooting cloning errors:
+---
+
+   * When cloning a repository it's possible that you might encounter some errors. If you're unable to clone a repository, [check that:](https://docs.github.com/en/repositories/creating-and-managing-repositories/troubleshooting-cloning-errors)
 
 
 ___ 
