@@ -86,6 +86,21 @@ As a user, I want to be able to:
   * Have a working loop environment without users input errors.
 
 
+  ___
+
+Feature Enhancements:
+  
+  * More functions to add to the battleships game.
+
+  * Keeping players score during the game.
+
+  * Adding the ability for each player to add their own names.
+
+  * Bigger grid.
+
+  * More ships with different size options.
+
+
 ___
 
 Game Flow Chart:
@@ -126,9 +141,9 @@ Throughout writing my code, I continuously tested the code in [VS Code's](https:
 
    * No bugs remained in the app at this time of submission.
 
-   * One human error was caused by no other than my self, I wanted to add a mp4 video clip of how the game is played, and the only way to add a video to a readme.md file is to drag and drop the video directly to the file within github. Once saved it did flag up errors within gitpod when trying to push new updates to the readme.md file.
+   * One human error was caused by no other than my self, I wanted to add a mp4 video clip of how the game is played, and the only way to add a video to a readme.md file is to drag and drop the video directly to the file within github. Once saved it did flag up errors within gitpod when trying to push new updates to the readme.md file.🙈
 
-   * Dealing with non-fast-forward errors, sometimes, Git can't make your change to a remote repository without losing commits. When this happens, your push is refused. If another person has pushed to the same branch as you, Git won't be able to push your changes: This was fixed by following the steps taking in the [image]()
+   * Dealing with non-fast-forward errors, sometimes, Git can't make your change to a remote repository without losing commits. When this happens, your push is refused. If another person has pushed to the same branch as you, Git won't be able to push your changes: This was fixed by following the steps taking in the [image](https://github.com/Flow-matic/sea-battle/blob/main/images/non-fast-forward%20errors.png?raw=true)
 
 
 ___
