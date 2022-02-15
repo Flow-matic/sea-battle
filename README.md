@@ -114,15 +114,6 @@ Game Sketch Chart Using Excalidraw:
 ![Sketch chart](https://github.com/Flow-matic/sea-battle/blob/main/images/sketch.png?raw=true)
 
 
-___ 
-
-Testing Code:
----
-[Pep8](http://pep8online.com/) sometimes spelled PEP8 or PEP-8, is a document that provides guidelines and best practices on how to write Python code. The primary focus of PEP 8 is to improve the readability and consistency of Python code.
-
-[Passed code image can be found here!](https://github.com/Flow-matic/sea-battle/blob/main/images/pep8%20code%20ok.png?raw=true)
-
-
 ___
 
 Testing game functions:
@@ -136,6 +127,15 @@ Testing game functions:
   will show in the game app.
 
   * All inputs have been continuously tested. All game app functions and each piece of code was tested in Gitpod as well as in Pep8.
+
+
+___ 
+
+Testing Code:
+---
+[Pep8](http://pep8online.com/) sometimes spelled PEP8 or PEP-8, is a document that provides guidelines and best practices on how to write Python code. The primary focus of PEP 8 is to improve the readability and consistency of Python code.
+
+[Passed code image can be found here!](https://github.com/Flow-matic/sea-battle/blob/main/images/pep8%20code%20ok.png?raw=true)
 
 
 ___
