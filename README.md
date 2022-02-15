@@ -123,6 +123,22 @@ Testing Code:
 
 [Passed code image can be found here!](https://github.com/Flow-matic/sea-battle/blob/main/images/pep8%20code%20ok.png?raw=true)
 
+
+___
+
+Testing game functions:
+---
+
+  * You must type in 'start' before the game can be played. If you spell start wrong or input a number instead, the game app will tell you to type the word start.
+
+  * Each player will be asked to input a row number first followed by a column number. Numbers between 1 and 5 must be used, if a number above 5 is added the game app will say 'Oops, that's not even in the ocean' and also if a letter is added the following 'Enter a number only' will also appear.
+
+  * When each player has used all there turns, the current match score is 0 : 0 (Player1 : Player2)
+  will show in the game app.
+
+  * All inputs have been continuously tested. All game app functions and each piece of code was tested in Gitpod as well as in Pep8.
+
+
 ___
 
 Bugs and Errors:
@@ -170,7 +186,10 @@ The project was deployed to [GitHub](https://github.com/) Pages using the follow
    * The now published site link shows at the top of the page.
 
 
+___
+
 Setting up Heroku environment:
+---
 
    * Once you have your account ready, login with your credentials.
 
@@ -204,6 +223,28 @@ Setting up Heroku environment:
    * Heroku will take the code and host it. Open the Activity tab and there you can see the progress:
 
    * Hoooorah!! And that’s it! you just created your own web application that can be accessed over the internet.
+
+
+___
+
+
+Git Cloning Loacal Deployment:
+---
+   * You can clone a repository from GitHub.com to your local computer to make it easier to fix merge conflicts, add or remove files, and push larger commits. When you clone a repository, you copy the repository from GitHub.com to your local machine. You can clone your existing repository or clone another person's existing repository to contribute to a project.
+
+   1. On GitHub.com, navigate to the main page of the repository.
+
+   2. Above the list of files, click  Code.
+
+   3. To clone the repository using HTTPS, under "Clone with HTTPS", click copy . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click copy . To clone a repository using GitHub CLI, click Use GitHub CLI, then click copy.
+
+   4. Open Terminal.
+
+   5. Change the current working directory to the location where you want the cloned directory.
+
+   6. Type git clone, and then paste the URL you copied earlier.
+
+   7. Press Enter to create your local clone.
 
 
 ___ 
