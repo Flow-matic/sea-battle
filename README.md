@@ -111,7 +111,7 @@ Game Sketch Chart Using Excalidraw:
 
    * Excalidraw comes with all the basic features you would expect to see in a drawing tool. It offers a wonderful selection of basic shapes and features. You can set the properties of the stroke and the fill, group objects, manage layers by bringing objects to the front or pushing them to the back. You can also add text, play with the arrowheads, draw freehand, add breakpoints to lines ... it is really hard to name a basic feature that is missing.
 
-![Sketch chart](https://github.com/Flow-matic/sea-battle/blob/main/images/Game%20flow%20chart.jpeg?raw=true)
+![Sketch chart](https://github.com/Flow-matic/sea-battle/blob/main/images/sketch.png?raw=true)
 
 
 ___ 
