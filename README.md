@@ -227,7 +227,7 @@ Setting up Heroku environment:
 ___
 
 
-Git Cloning Loacal Deployment:
+Git Cloning Local Deployment:
 ---
    * You can clone a repository from GitHub.com to your local computer to make it easier to fix merge conflicts, add or remove files, and push larger commits. When you clone a repository, you copy the repository from GitHub.com to your local machine. You can clone your existing repository or clone another person's existing repository to contribute to a project.
 
@@ -236,7 +236,7 @@ Git Cloning Loacal Deployment:
    2. Above the list of files, click  Code.
    [Steps taking image](https://github.com/Flow-matic/sea-battle/blob/main/images/git%20clone%201.png?raw=true)
 
-   3. To clone the repository using HTTPS, under "Clone with HTTPS", click copy . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click copy . To clone a repository using GitHub CLI, click Use GitHub CLI, then click copy.
+   3. To clone the repository using HTTPS, under "Clone with HTTPS", click copy . To clone the repository using an SSH key, including a certificate issued by your organisations SSH certificate authority, click Use SSH, then click copy . To clone a repository using GitHub CLI, click Use GitHub CLI, then click copy.
    [Steps taking image 1](https://github.com/Flow-matic/sea-battle/blob/main/images/git%20clone%203.png?raw=true)
    [Steps taking image 2](https://github.com/Flow-matic/sea-battle/blob/main/images/git%20clone%203%20+.png?raw=true)
 
@@ -279,7 +279,7 @@ Features & Design:
 
   * There are some limitations as to how you can style a command-line based app, 
    
-   * Colors used for the app grid was as follows. [Red](https://www.w3schools.com/colors/colors_picker.asp), [Blue](https://www.w3schools.com/colors/colors_picker.asp), [Cyan](https://www.w3schools.com/colors/colors_picker.asp), I used [W3schools color picker](https://www.w3schools.com/colors/colors_picker.asp)
+   * Colours used for the app grid was as follows. [Red](https://www.w3schools.com/colors/colors_picker.asp), [Blue](https://www.w3schools.com/colors/colors_picker.asp), [Cyan](https://www.w3schools.com/colors/colors_picker.asp), I used [W3schools color picker](https://www.w3schools.com/colors/colors_picker.asp)
 
   * [Canva](http://www.canva.com/) was used to design and make the background README.md main header image. Canva is an Australian graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. The app includes templates for users to use free of charge or you can upgrade and pay a yearly fee.
 
